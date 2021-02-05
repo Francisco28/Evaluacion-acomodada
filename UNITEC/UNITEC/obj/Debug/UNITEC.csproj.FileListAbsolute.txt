@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\SharpDevelop Projects\UNITEC\UNITEC\bin\Debug\UNITEC.exe
+C:\Users\pc\Documents\SharpDevelop Projects\UNITEC\UNITEC\bin\Debug\UNITEC.pdb
+C:\Users\pc\Documents\SharpDevelop Projects\UNITEC\UNITEC\obj\Debug\UNITEC.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\SharpDevelop Projects\UNITEC\UNITEC\obj\Debug\UNITEC.exe
+C:\Users\pc\Documents\SharpDevelop Projects\UNITEC\UNITEC\obj\Debug\UNITEC.pdb
